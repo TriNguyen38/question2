@@ -1,0 +1,40 @@
+{
+  "products": [
+  {
+      "_id": "64e5da11d7a26077dfb865a0",
+      "id": 1,
+      "sku": "almond",
+      "description": "product 1",
+      "instock": 120,
+      "createdAt": "2023-08-23T10:06:09.492Z",
+      "updatedAt": "2023-08-23T10:07:49.630Z"
+  },
+  {
+      "_id": "64e5dac3d7a26077dfb865aa",
+      "id": 2,
+      "sku": "bread",
+      "description": "product 2",
+      "instock": 80,
+      "createdAt": "2023-08-23T10:09:07.985Z",
+      "updatedAt": "2023-08-23T10:09:07.985Z"
+  },
+  {
+      "_id": "64e5dae0d7a26077dfb865ad",
+      "id": 3,
+      "sku": "cashews",
+      "description": "product 3",
+      "instock": 60,
+      "createdAt": "2023-08-23T10:09:36.415Z",
+      "updatedAt": "2023-08-23T10:09:36.415Z"
+  },
+  {
+      "_id": "64e5daf6d7a26077dfb865b0",
+      "id": 4,
+      "sku": "pecans",
+      "description": "product 4",
+      "instock": 70,
+      "createdAt": "2023-08-23T10:09:58.295Z",
+      "updatedAt": "2023-08-23T10:09:58.295Z"
+  }
+]
+}
